@@ -1,5 +1,7 @@
 # Connect-4
-## Python implementation of the game Connect 4.
+## Python implementation of the game Connect 4
+
+### This project utilizes the Tkinter library for the graphical implementation of the game Connect 4. The leaderboard system is implemented using SQLite3.
 
 
 #### Instructions:
